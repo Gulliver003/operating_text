@@ -19,7 +19,7 @@ with open('/Users/sugiuratakuya/st.csv','r') as c:
         以下のように書き込まれる
         {
             "No": "1",
-            "Name": "takuya",
+            "Name": "gulliver",
             "Job": "Manager",
             "A": {
                 "i": "programmer",
